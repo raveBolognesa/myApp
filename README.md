@@ -1,3 +1,3 @@
-# myApp
+# Ionic test
 
 built in ionic
